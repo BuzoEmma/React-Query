@@ -1,0 +1,91 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Spider-Man",
+      "alterEgos": "Bruce wayne"
+    },
+    {
+      "id": 2,
+      "name": "Batman",
+      "alterEgos": "Cler Kent"
+    },
+    {
+      "id": 3,
+      "name": "Iron Man",
+      "alterEgos": "Tony Stark"
+    },
+    {
+      "name": "You Have Tried",
+      "alterEgo": "You Will be Successful ",
+      "id": 4
+    }
+  ],
+  "frineds": [
+    {
+      "id": 1,
+      "name": "Chander Bing",
+      "alterEgos": "Bruce wayne"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani",
+      "alterEgos": "Cler Kent"
+    },
+    {
+      "id": 3,
+      "name": "Reachard Green",
+      "alterEgos": "Tony Stark"
+    }
+  ],
+  "users": [
+    {
+      "id": "buzoemma6@gmail.com",
+      "channelId": "ChibuzoEmma"
+    }
+  ],
+  "channels": [
+    {
+      "id": "ChibuzoEmma",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "pink"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
