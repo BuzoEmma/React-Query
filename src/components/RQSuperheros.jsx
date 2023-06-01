@@ -62,7 +62,7 @@ const RQSuperheros = () => {
       </div>
       <h3>RQSuperhero 1</h3>
       {/* <button onClick={refetch}>Fetch-Heroes</button> */}
-      {data?.data.map((hero) => (
+      {data?.data?.map((hero) => (
         <div key={hero.id}>
           <div>{/* {hero.alterEgos} */}</div>
           <Link to={`/RQSuperhero/${hero.id}`}>{hero.name} {hero.alterEgo}</Link>
